@@ -1,0 +1,10 @@
+commit d5ccd8bcab45f182c0632183fc0d3d27cc4e1c31
+tree 1776b764aa46ed974a3868573f5b3c4dd58a05f1
+parent 7ac12905f121aa369063574e2c8698d6ace65769
+author Dima <D_Konon@gmail.com> 2024-03-28 21:11:58 +0300
+committer Dima <D_Konon@gmail.com> 2024-03-28 21:11:58 +0300
+
+    change 8
+
+
+:100644 100644 82e6f921d1b6caeee651c99f8790d372f3896da5 066e13da80414200525e86ebc1fcfb469ec67d51 M	jobs/hw191.groovy

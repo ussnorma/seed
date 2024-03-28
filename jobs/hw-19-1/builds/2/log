@@ -1,0 +1,16 @@
+Started by user [8mha:////4HXDgsz8k+3Oq+QrYf7ULjwoKZk4iPZtEUZ6ro83yIshAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/hw-19-1
+[hw-19-1] $ /bin/bash /tmp/jenkins9568652467708508986.sh
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   328    0   328    0     0    769      0 --:--:-- --:--:-- --:--:--   769
+{
+    "status": 402,
+    "requests": {
+        "used": 4,
+        "available": 9996,
+        "resets": "2024-04-01 00:00:00"
+    },
+    "error": "Free accounts are limited to last year's historical data only. Upgrade to premium for access to all holiday data. For more information, please visit https:\/\/holidayapi.com\/docs"
+}Finished: SUCCESS
