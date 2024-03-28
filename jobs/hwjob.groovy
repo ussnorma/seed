@@ -1,8 +1,8 @@
 job('HW-20-1') {
   steps {
       folder('dir1') {
-        git url: 'https://github.com/ussnorma/seed', branch: 'main'
         sh """
+          git clone --single-branch --branch main https://github.com/ussnorma/seed.git && 
           ls -la 
         """
         deleteDir()
