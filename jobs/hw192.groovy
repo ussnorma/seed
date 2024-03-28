@@ -1,4 +1,4 @@
-job("hw-19-2") {
+job("hw192") {
 	description()
 	keepDependencies(false)
 	disabled(false)
