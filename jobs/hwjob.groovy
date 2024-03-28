@@ -1,5 +1,11 @@
 job('HW-20-1') {
   steps {
-    shell('bash /var/lib/jenkins/script.sh')
+      folder('dir1') {
+        git url: 'https://github.com/ussnorma/seed', branch: 'main'
+        sh """
+          ls -la 
+        """
+        deleteDir()
+    }
   }
 }
