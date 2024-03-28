@@ -1,0 +1,25 @@
+Started by user [8mha:////4HXDgsz8k+3Oq+QrYf7ULjwoKZk4iPZtEUZ6ro83yIshAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/Seed All
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/lib/jenkins/workspace/Seed All/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/ussnorma/seed.git # timeout=10
+Fetching upstream changes from https://github.com/ussnorma/seed.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git fetch --tags --force --progress -- https://github.com/ussnorma/seed.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+Seen branch in repository origin/main
+Seen 1 remote branch
+ > git show-ref --tags -d # timeout=10
+Checking out Revision 6779213624969b1b7ef1d37a9dee4abe7ac5a05e (origin/main)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 6779213624969b1b7ef1d37a9dee4abe7ac5a05e # timeout=10
+Commit message: "change 4"
+ > git rev-list --no-walk 2b34d949b097e200daa2908dd887ac066b772112 # timeout=10
+ > git tag -a -f -m Jenkins Build #5 jenkins-Seed_All-5 # timeout=10
+Processing DSL script jobs/helloworld.groovy
+Processing DSL script jobs/hw191.groovy
+ERROR: script not yet approved for use
+Finished: FAILURE

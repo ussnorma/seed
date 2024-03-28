@@ -1,0 +1,10 @@
+commit fa90c76dd50c62338cb3acc73eedde2fa75cf979
+tree 9e5fa29b1caad0693d37502ce56845628ae179f2
+parent 8e1a6196657e63abde0e3608af141fe791e7bea0
+author Dima <D_Konon@gmail.com> 2024-03-28 20:49:16 +0300
+committer Dima <D_Konon@gmail.com> 2024-03-28 20:49:16 +0300
+
+    change 2
+
+
+:100644 100644 4d5505021a6b27f95f7f871382c9429511301600 4d5505021a6b27f95f7f871382c9429511301600 R100	jobs/seed-all.groovy	jobs/seedall.groovy
