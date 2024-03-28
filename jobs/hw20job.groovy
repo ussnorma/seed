@@ -6,5 +6,6 @@ job('HW-20-1') {
               ls -la 
           """
           deleteDir()
+      }
   }
 }
